@@ -7,18 +7,10 @@ Cross-OS.
 
 ---
 
-## ⚙️ Instalación
+## ⚙️ Instalación y Ejecución
 
 Instalá las dependencias necesarias:
 
 
 ```bash
 pip install -r requirements.txt
-
-
-
-
-## ⚙️ Ejecución
-
-python3 -m streamlit run main.py
-
