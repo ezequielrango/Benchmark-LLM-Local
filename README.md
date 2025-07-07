@@ -1,13 +1,2 @@
-# 🚀 Benchmark Local LLM
-
-Benchmark para medir el rendimiento de un modelo **Ollama** corriendo en local.
-
----
-
-## ✅ Requisitos previos
-
-1. Python 3.8+
-2. Tener **Ollama** corriendo en el host (`ollama run <model>`)
-3. Instalar dependencias:
-   ```bash
-   python3 -m pip install -r requirements.txt
+# Benchmark-LLM-Local
+App interactiva con Streamlit para benchmarks locales de modelos LLM vía Ollama. Mide rendimiento, velocidad, latencia y uso de recursos (CPU, RAM, swap). Incluye comparativas, gráficos, exportación CSV y conclusión automática para elegir el modelo óptimo. Cross-OS.
