@@ -14,3 +14,7 @@ Instalá las dependencias necesarias:
 
 ```bash
 pip install -r requirements.txt
+
+
+python3 -m streamlit run main.py
+
